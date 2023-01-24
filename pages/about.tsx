@@ -8,6 +8,7 @@ const About = () => {
       <Head>
         <title>About me</title>
       </Head>
+      <p>o mnie</p>
     </Layout>
   );
 };
